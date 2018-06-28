@@ -1,8 +1,14 @@
 --[[------------------------------------------------------------------
 
-    Enum Extender Module by buildthomas (July 2015)
+	EnumExtender.lua
 
-    (Please keep this notice intact)
+	This module is licensed under APLv2, refer to LICENSE file or:
+	https://www.apache.org/licenses/LICENSE-2.0
+
+	To use this code, you must keep this notice in all copies of
+	(significant pieces of) this code.
+
+	Copyright 2018 buildthomas
 
 --[[------------------------------------------------------------------
 
